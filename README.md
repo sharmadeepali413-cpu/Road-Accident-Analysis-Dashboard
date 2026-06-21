@@ -159,23 +159,33 @@ The dashboard transforms raw accident data into meaningful business insights thr
 * Interactive Dashboard Design
 
 ---
-
-## 📂 Repository Structure
-
+### Road-Accident-Analysis-Dashboard/
 ```text
-Road-Accident-Analysis-Dashboard/
-│
 ├── README.md
 ├── Road_Accident_Dashboard_Documentation.docx
 ├── Dashboard_Overview.png
 └── Pivot_Tables.png
 ```
 
+
+---
+
+## 📂 Project Files
+
+This repository includes:
+
+- Dashboard Screenshot
+- Pivot Table Analysis Screenshot
+- Project Documentation
+- Project README
+
+**Note:** The original Excel workbook and dataset are not included due to file size limitations.
+
 ---
 
 ## 🚀 Project Outcome
 
-Successfully developed an interactive Road Accident Analysis Dashboard that provides a comprehensive view of casualty trends, accident severity, road conditions, and vehicle involvement. The dashboard helps identify accident patterns and supports data-driven decision-making for road safety improvement initiatives.
+Successfully developed an interactive Road Accident Analysis Dashboard that provides a comprehensive view of casualty trends, accident severity, road conditions, and vehicle involvement.
 
 ---
 
